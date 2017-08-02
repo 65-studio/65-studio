@@ -626,7 +626,7 @@ img {
 #fh5co-press .fh5co-press-item .fh5co-press-img {
   float: left;
   background-size: cover;
-  background-position: 50% 0%;
+  background-position: 0% 0%;
   height: 300px;
 }
 
