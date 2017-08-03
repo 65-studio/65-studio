@@ -185,7 +185,7 @@
 				
 				setTimeout ( function () {
 					el.addClass('fadeInUp animated');
-				},  k * 200, 'easeInOutExpo' );
+				},  k * 100, 'easeInOutExpo' );
 				
 			});
 		}
@@ -220,7 +220,7 @@
 				
 				setTimeout ( function () {
 					el.addClass('fadeInUp animated');
-				},  k * 200, 'easeInOutExpo' );
+				},  k * 100, 'easeInOutExpo' );
 				
 			});
 		}
@@ -255,7 +255,7 @@
 				
 				setTimeout ( function () {
 					el.addClass('fadeInUp animated');
-				},  k * 200, 'easeInOutExpo' );
+				},  k * 100, 'easeInOutExpo' );
 				
 			});
 		}
@@ -290,7 +290,7 @@
 				
 				setTimeout ( function () {
 					el.addClass('fadeInUp animated');
-				},  k * 200, 'easeInOutExpo' );
+				},  k * 100, 'easeInOutExpo' );
 				
 			});
 		}
@@ -326,7 +326,7 @@
 				
 				setTimeout ( function () {
 					el.addClass('fadeInUp animated');
-				},  k * 200, 'easeInOutExpo' );
+				},  k * 100, 'easeInOutExpo' );
 				
 			});
 		}
@@ -371,7 +371,7 @@
 				
 				setTimeout ( function () {
 					el.addClass('fadeInUp animated');
-				},  k * 200, 'easeInOutExpo' );
+				},  k * 100, 'easeInOutExpo' );
 				
 			});
 		}
@@ -404,7 +404,7 @@
 				
 				setTimeout ( function () {
 					el.addClass('fadeInUp animated');
-				},  k * 200, 'easeInOutExpo' );
+				},  k * 100, 'easeInOutExpo' );
 				
 			});
 		}
@@ -442,7 +442,7 @@
 				
 				setTimeout ( function () {
 					el.addClass('fadeInUp animated');
-				},  k * 200, 'easeInOutExpo' );
+				},  k * 100, 'easeInOutExpo' );
 				
 			});
 		}
