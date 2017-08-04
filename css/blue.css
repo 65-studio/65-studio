@@ -591,20 +591,29 @@ img {
   float: left;
   padding: 20px;
   height: auto;
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: left;
-  align-content: center;
+  display: block;
+}
+
+.fh5co-press-text .learn-more-link {
+	margin-bottom: 24px;
 }
 
 @media screen and (min-width: 481px) {
 	#fh5co-press .fh5co-press-item .fh5co-press-text {
 	  height: 300px;
+	  display: -webkit-box;
+	  display: -moz-box;
+	  display: -ms-flexbox;
+	  display: -webkit-flex;
+	  display: flex;
+	  flex-direction: column;
+	  justify-content: center;
+	  align-items: left;
+	  align-content: center;
+	}
+	
+	.fh5co-press-text .learn-more-link {
+		margin-bottom: 0;
 	}
 }
 #fh5co-press .fh5co-press-item .fh5co-press-text .fh5co-press-title {
