@@ -1160,6 +1160,11 @@ img {
 	padding: 9px 8px 7px;
 }
 
+.icon-upwork svg {
+	width: 24px;
+	height: 24px;
+}
+
 .person-portfolio {
 	margin: 0;
 	padding: 0;
